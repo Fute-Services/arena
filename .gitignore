@@ -25,4 +25,5 @@ dist-ssr
 
 # Unused large media (not imported anywhere, too large for GitHub)
 src/videos
+/videos
 *.zip
